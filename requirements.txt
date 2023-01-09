@@ -1,0 +1,16 @@
+django
+djangorestframework
+djangorestframework_simplejwt
+drf-yasg
+psycopg2-binary
+dj_config_url
+python-decouple
+pillow
+celery[redis]
+pandas
+matplotlib
+seaborn
+numpy
+plotly
+scipy
+tensorflow
